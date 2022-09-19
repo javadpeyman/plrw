@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: PLRW
 description: Word-level Persian Lipreading Dataset
+project-name : PLRW
+og:title : PLRW
